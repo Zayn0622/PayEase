@@ -1,0 +1,6 @@
+{
+  "name": "PayEase",
+  "description": "Modern and secure UPI payment app featuring instant QR scanning, personal QR, multi-bank management, real-time balance check, transaction history, conversational chat payments, and guaranteed cashback rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
